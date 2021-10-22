@@ -8,5 +8,5 @@ Upon graduation I would like to work as a business analyst in the marketing anal
 # SSMS OLTP Database experience
 The video below displays a mock database with mock data of how Johnson & Johnson can track their device usage across a Florida region. Medical devices are used at a rapid rate between different hospitals and J&J consultants. The point of this database is to help track each medical devices status and location. The goal for this project is to help medical devices remain restocked in inventory and do not get lost in a hospital or consultants system. 
 
-https://user-images.githubusercontent.com/91635816/138389347-e591afd0-127a-464c-b133-75bb207100d6.mp4
+
 
