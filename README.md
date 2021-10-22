@@ -9,12 +9,11 @@ Outside the classroom I love basically any sport that requires balance and legs.
 
 ## SSMS OLTP Database experience
 The video below displays a mock database with mock data of how Johnson & Johnson can track their device usage across a Florida region. Medical devices are used at a rapid rate between different hospitals and J&J consultants. The point of this database is to help track each medical devices status and location. The goal for this project is to help medical devices remain restocked in inventory and do not get lost in a hospital or consultants system. 
+##
 ### Mock J&J Database project
 #### ERD
 ![image](https://user-images.githubusercontent.com/91635816/138492400-54200470-884a-424e-a419-d2c9e2e7f76b.png)
-
 #### Visual Studio mock database video
- 
 https://user-images.githubusercontent.com/91635816/138492462-643d2fe3-6e0a-4380-9de5-b4f639f79f69.mp4
 
 #### Snippet of SQL build script for database
