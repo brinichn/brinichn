@@ -6,16 +6,25 @@ Over the last two summers I have worked in the healthcare industry as an intern 
 Upon graduation I would like to work as a business analyst in the marketing analytics department. I really find it fascinating how we can bring raw numbers to answers and furthermore decipher ways to attract noncustomers and how to retain current customers. Although marketing analytics would be ideal my most important trait in my early career would work on an analytics team with a strong support team. As for my work experience, it really opened my eyes to how important it is to have a mentor that pushes you to become the most efficient one can be. 
 ##
 Outside the classroom I love basically any sport that requires balance and legs. I grew up playing ice hockey in south Florida (oxymoron yes, scarce competition = lots of travel). Despite being one of the few hockey players in south Florida I truly got the best of both worlds. there was a point in time I would go surfing before or after my hockey game, gosh I would love to be in that good of shape today.
+
 ## SSMS OLTP Database experience
 The video below displays a mock database with mock data of how Johnson & Johnson can track their device usage across a Florida region. Medical devices are used at a rapid rate between different hospitals and J&J consultants. The point of this database is to help track each medical devices status and location. The goal for this project is to help medical devices remain restocked in inventory and do not get lost in a hospital or consultants system. 
 ### Mock J&J Database project
+#### ERD
 ![image](https://user-images.githubusercontent.com/91635816/138492400-54200470-884a-424e-a419-d2c9e2e7f76b.png)
 
-### Visual Studio mock database video
+#### Visual Studio mock database video
+ 
 https://user-images.githubusercontent.com/91635816/138492462-643d2fe3-6e0a-4380-9de5-b4f639f79f69.mp4
 
+#### Snippet of SQL build script for database
+![image](https://user-images.githubusercontent.com/91635816/138512489-310a4874-2fad-49e9-90ca-e3e058603d4b.png)
+
+#### Snippet of TSQL procedure
+![image](https://user-images.githubusercontent.com/91635816/138513897-11b0662a-13ed-4193-8a8d-467d8b07053f.png)
+
 ## Visual Basic experience
-Here is a short video on my VBA experience. The goal of this project was to import two files on a unique identifier key and then run quantitative and qualitative descriptive statistics on the imported csv files. 
+Here is a short video on my VBA experience. The goal of this project was to import two csv files on a unique identifier key and then run quantitative and qualitative descriptive statistics on imported files. 
 
 ### VBA project video
 https://user-images.githubusercontent.com/91635816/138509388-318376b8-7ac5-49a6-ac43-3d50cc9b78d2.mp4
