@@ -5,5 +5,8 @@ Over the last two summers I have worked in the healthcare industry as an intern 
 ##
 Upon graduation I would like to work as a business analyst in the marketing analytics department. I really find it fascinating how we can bring raw numbers to answers and furthermore decipher ways to attract noncustomers and how to retain current customers. Although marketing analytics would be ideal my most important trait in my early career would work on an analytics team with a strong support team. As for my work experience, it really opened my eyes to how important it is to have a mentor that pushes you to become the most efficient one can be. 
 ##
+# SSMS OLTP Database experience
+The video below displays a mock database with mock data of how Johnson & Johnson can track their device usage across a Florida region. Medical devices are used at a rapid rate between different hospitals and J&J consultants. The point of this database is to help track each medical devices status and location. The goal for this project is to help medical devices remain restocked in inventory and do not get lost in a hospital or consultants system. 
+
 https://user-images.githubusercontent.com/91635816/138389347-e591afd0-127a-464c-b133-75bb207100d6.mp4
 
