@@ -5,16 +5,27 @@ Over the last two summers I have worked in the healthcare industry as an intern 
 ##
 Upon graduation I would like to work as a business analyst in the marketing analytics department. I really find it fascinating how we can bring raw numbers to answers and furthermore decipher ways to attract noncustomers and how to retain current customers. Although marketing analytics would be ideal my most important trait in my early career would work on an analytics team with a strong support team. As for my work experience, it really opened my eyes to how important it is to have a mentor that pushes you to become the most efficient one can be. 
 ##
-# SSMS OLTP Database experience
+## SSMS OLTP Database experience
 The video below displays a mock database with mock data of how Johnson & Johnson can track their device usage across a Florida region. Medical devices are used at a rapid rate between different hospitals and J&J consultants. The point of this database is to help track each medical devices status and location. The goal for this project is to help medical devices remain restocked in inventory and do not get lost in a hospital or consultants system. 
+### Mock J&J Database project
 ![image](https://user-images.githubusercontent.com/91635816/138492400-54200470-884a-424e-a419-d2c9e2e7f76b.png)
 
 https://user-images.githubusercontent.com/91635816/138492462-643d2fe3-6e0a-4380-9de5-b4f639f79f69.mp4
 
-## Python Projects
+## Visual Basic experience
+Here is a short video on my VBA experience. The goal of this project was to import two files on a unique identifier key and then run quantitative and qualitative descriptive statistics on the imported csv files. 
+
+### VBA project video
+https://user-images.githubusercontent.com/91635816/138509388-318376b8-7ac5-49a6-ac43-3d50cc9b78d2.mp4
+
+
+## Python experience
 The goal of this project was to determine how car sales is affected based on manufacturer, type, price, engine size, horsepower, fuel capacity, fuel efficiency, and power performance factor. 
-## Python project video 
+### Python project video 
 https://user-images.githubusercontent.com/91635816/138507277-d89d7270-78be-42ba-8e72-861ec7d9e282.mp4
+
+
+
 
 
 
