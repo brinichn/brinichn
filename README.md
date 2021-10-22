@@ -11,4 +11,10 @@ The video below displays a mock database with mock data of how Johnson & Johnson
 
 https://user-images.githubusercontent.com/91635816/138492462-643d2fe3-6e0a-4380-9de5-b4f639f79f69.mp4
 
+## Python Projects
+The goal of this project was to determine how car sales is affected based on manufacturer, type, price, engine size, horsepower, fuel capacity, fuel efficiency, and power performance factor. 
+## Python project video 
+https://user-images.githubusercontent.com/91635816/138507277-d89d7270-78be-42ba-8e72-861ec7d9e282.mp4
+
+
 
