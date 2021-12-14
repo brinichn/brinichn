@@ -22,7 +22,10 @@ The video below displays a mock database with mock data of how Johnson & Johnson
 ### Mock J&J Database project
 #### ERD
 ![image](https://user-images.githubusercontent.com/91635816/138492400-54200470-884a-424e-a419-d2c9e2e7f76b.png)
-#### Visual Studio mock database video
+
+ [Additional database information](#JJ_Database)
+
+ #### Visual Studio mock database video
 https://user-images.githubusercontent.com/91635816/138492462-643d2fe3-6e0a-4380-9de5-b4f639f79f69.mp4
 
 #### Snippet of SQL build script for database
